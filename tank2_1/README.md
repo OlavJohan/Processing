@@ -1,0 +1,2 @@
+## Tank 2.1
+Kjempeartig tank-skytespill i 2D for 2-4 personer. Dette er det største prosjektet jeg har laget i processing. Dessverre har det i nyere versjoner av processing oppstått en rekke problemer med lydbiblioteket som er brukt.    
