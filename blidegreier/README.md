@@ -1,0 +1,2 @@
+## Bilde av bilder
+Dette programmet tar et bilde fra mappen `data/fjes/` og lager et lignende bilde hvor hver piksel er et bilde fra mappen `data/`. Programmet krever et ganske stort bibliotek av bilder for å fungere. Disse har jeg ikke lastet opp her på git. 
